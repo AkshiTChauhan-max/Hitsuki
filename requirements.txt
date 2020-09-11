@@ -12,6 +12,7 @@ googletrans
 hurry.filesize
 markdown2
 nltk
+jikanpy
 Pillow>=4.2.0
 psycopg2-binary
 PyLyrics

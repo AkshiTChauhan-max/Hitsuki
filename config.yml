@@ -1,0 +1,27 @@
+##############################
+# Please edit this line to "not_sample_anymore" to make the bot run
+is_example_config_or_not: "not_sample_anymore"
+##############################
+bot_token: "bot token here"
+api_key: 'api key here'
+api_hash: 'api hash here'
+owner_id: 1068994499
+owner_username: "katarina_claes"
+message_dump: "group id here for log"
+gban_dump: "group id here for log"
+load: []
+no_load: []
+strict_antispam: False
+workers: 4
+deepfry_token: None
+del_cmds: False
+sw_api: ''
+lastfm_api_key: ''
+
+# Database
+database_url: "postgres database here"
+
+# Permission
+sudo_users: [-380739435]
+support_users: [-380739435]
+whitelist_users: [-380739435]

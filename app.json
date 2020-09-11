@@ -1,0 +1,14 @@
+{
+  "name": "Endorsi",
+  "repository": "https://github.com/iykoou/Athanasia",
+  "website": "https://github.com/iykoou/Athanasia",
+  "buildpacks": [
+        {"url": "heroku/python"}
+    ],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
