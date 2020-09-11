@@ -2,13 +2,13 @@
 # Please edit this line to "not_sample_anymore" to make the bot run
 is_example_config_or_not: "not_sample_anymore"
 ##############################
-bot_token: "bot token here"
-api_key: 'api key here'
-api_hash: 'api hash here'
-owner_id: 1068994499
-owner_username: "katarina_claes"
-message_dump: "group id here for log"
-gban_dump: "group id here for log"
+bot_token: "1091272688:AAH6Qb1J14LeqPZXagT0L0L_86mbP65JL1s"
+api_key: '1769872'
+api_hash: '2aa63dfe6ab15e11b23d0e5dcafb11ec'
+owner_id: 1292001380
+owner_username: "Akshitchauhan"
+message_dump: "-1001401541684"
+gban_dump: "-1001401541684"
 load: []
 no_load: []
 strict_antispam: False
@@ -19,9 +19,9 @@ sw_api: ''
 lastfm_api_key: ''
 
 # Database
-database_url: "postgres database here"
+database_url: "postgres://qsnknyiinmszoa:62271f31ab73cea5e86830fb09c1f81898fb54909d438542f9fd9cfc6e330634@ec2-52-202-198-60.compute-1.amazonaws.com:5432/dcvl76eu9ltbf7"
 
 # Permission
-sudo_users: [-380739435]
-support_users: [-380739435]
-whitelist_users: [-380739435]
+sudo_users: [1292001380]
+support_users: [1292001380]
+whitelist_users: [1292001380 1059767799 878816724 995749126 683226666 683226666 773217282 1305525200 362343646 613790542 1278644388]
